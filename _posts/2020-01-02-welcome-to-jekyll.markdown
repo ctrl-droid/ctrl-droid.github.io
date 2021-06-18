@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-01-02 19:31:29 +0900
+title:  "개발자는 준비부터 빡쎄다"
+date:   2021-06-18 09:31:29 +0900
 categories: jekyll update
 ---
+
+빡쎄다. 네이버에서 티스토리 그리고 깃허브까지
+기록물을 옮겨다니며 ctrl-C, ctrl-V를 하는 중이다.
+포스팅 하는게 만만치 않네.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
